@@ -20,3 +20,8 @@ git log
 git log -p "nom-de-fichier"
 git log --online
 
+Avoir un état 
+git checkout id-de-l-etat
+
+Revenir à l'état actuel
+git checkout master
