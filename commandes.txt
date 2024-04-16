@@ -1,5 +1,21 @@
+Initialisation du dossier
 git init 
+
+Conigurations
 git config --global user.email "email@gmail.com"
 git config --global user.name "Mon-nom"
+
+
+Voir l'état de modification 
+git status
+
+ajouter un ou plusieurs fichier dans le commit
 git add "nom-de-fichier"
+
+Prendre en compte les modification 
 git commit -m "Descriptions"
+
+Voir les précédents commits 
+git log
+git log --online
+
