@@ -1,0 +1,5 @@
+git init 
+git config --global user.email "email@gmail.com"
+git config --global user.name "Mon-nom"
+git add "nom-de-fichier"
+git commit -m "Descriptions"
