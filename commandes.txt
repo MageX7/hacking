@@ -25,3 +25,12 @@ git checkout id-de-l-etat
 
 Revenir à l'état actuel
 git checkout master
+
+Ajouter un remote
+git remote add origin addresse-depot
+git remote rename origin blabla
+git remote -v //afficher la liste de tous les remote
+
+Ajouter une branche
+git push nom-remote master
+git branch -r //afficher la liste des branches
