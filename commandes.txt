@@ -17,5 +17,6 @@ git commit -m "Descriptions"
 
 Voir les précédents commits 
 git log
+git log -p "nom-de-fichier"
 git log --online
 
